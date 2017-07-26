@@ -1,0 +1,20 @@
+{
+  "name": "generator-ocaml-bucklescript-webpack",
+  "version": "0.1.0",
+  "description": "A Yeoman generator for Ocaml+Bucklescript+Webpack (using bs-loader)",
+  "files": [
+      "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "bucklescript",
+    "ocaml",
+    "webpack",
+    "bs-loader"
+  ],
+  "author": "Spencer Williams <spencerwi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}

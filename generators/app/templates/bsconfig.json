@@ -1,0 +1,10 @@
+{
+  "name": "<%= projectName %>",
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies": [
+
+  ],
+  "generate-merlin": true
+}
