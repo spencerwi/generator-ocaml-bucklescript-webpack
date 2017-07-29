@@ -3,7 +3,7 @@ const path = require('path')
 
 module.exports = {
   // Entry file can be a Reason or OCaml file
-  entry: './src/main.ml',
+  entry: './src/main.<%= fileExt %>',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'release')
